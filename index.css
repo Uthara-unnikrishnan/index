@@ -1,0 +1,52 @@
+.first{
+    background-color: blue;
+}
+.first{
+    
+    background-color: brown;
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    flex-grow: 4;
+
+}
+.section1{
+   
+    
+    background-color: brown;
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    flex-grow: 1;
+
+}
+
+.section2{
+    display:inline-block;
+    background-color: brown;
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+
+}
+.section3{
+    display:inline-block;
+    background-color: brown;
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+
+}
+.new{
+    
+
+
+    background-color: rgb(48, 42, 165);
+    width: 1500px;
+    height: 500px;
+    margin: 2px;
+    display: flex;
+}
+
+
+
